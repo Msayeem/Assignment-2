@@ -100,7 +100,7 @@ nav button:active
       padding: 4.8rem 7.29rem 6.10rem 7.29rem;
      background-repeat: no-repeat;
      margin-bottom: 40px;
-    position: relative;
+     
     margin-left: -17px;
 }
 .hero h1
@@ -473,9 +473,7 @@ width: 75%;
 {
     transform: scale(1.04);
 }
-{
 
-}
 .mid3 h3
 {
     text-align: center;
@@ -579,8 +577,7 @@ text-align: center;
          padding: 50px 65px;
           height: 180px;
          width: 180px;
-         height: 180px;
-         border-radius: 100px;
+         border-radius: 10px;
          background-position: center;
          background-size: cover;
           
